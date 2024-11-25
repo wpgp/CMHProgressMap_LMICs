@@ -111,7 +111,7 @@ some of the indicators. This work was approved by the ethics and research govern
 University of Southampton.
 
 # Suggested citation
-Dorey, P.,Chan, H.M.T., Tejedor-Garavito, N., Priyatikanto, R., Bonnie, A., Williams, E.M., Johnson, M., Tatem, A.J., Pezzulo, C. 2024. CMHProgressMap_LMICs: Child and Maternal Health Indicator Mapping from DHS Data in LMICs, version 1.1. WorldPop, University of Southampton. 
+Dorey, P.,Chan, H.M.T., Tejedor-Garavito, N., Priyatikanto, R., Bonnie, A., Williams, E.M., Johnson, M., Tatem, A.J., Pezzulo, C. 2024. CMHProgressMap_LMICs: Child and Maternal Health Indicator Mapping from DHS Data in LMICs, version 1.1. WorldPop, University of Southampton. DOI: https://doi.org/10.5281/zenodo/14217826 
 
 # References
 
