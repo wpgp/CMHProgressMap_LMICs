@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/894012650.svg)](https://doi.org/10.5281/zenodo.14217826)
+
 # CMHProgressMap_LMICs
  
 25-11-2024
